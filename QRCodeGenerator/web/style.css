@@ -28,16 +28,14 @@
     top: 35%;
     left: 70%;
 }
-#popover123 {
-    background-color: brown;
-    position: fixed;
-    top: 35%;
+#popova{
+    position: absolute;
+    /* transform: translate(-90%, 40%); */
     left: 70%;
-}
-#popover123:focus {
-    width: 100%;
+    top: 27%;
 }
 
 body {
     overflow-x: hidden;
+    color: white;
 }

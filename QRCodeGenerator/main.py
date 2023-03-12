@@ -21,3 +21,4 @@ def makeqr(link):
     print(f"'{link2}_QR{num}.png' has been saved!")
 
 eel.start('index.html', size=(856, 554))
+# eel.start('index.html',mode="electron", size=(856, 554)) #Electron is so fucking broken smh
